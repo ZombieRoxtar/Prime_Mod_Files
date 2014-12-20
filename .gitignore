@@ -1,0 +1,8 @@
+*.dll
+*.cache
+downloadlists
+maps/graphs
+*.tmp
+ep1_gamestats.dat
+stats.txt
+cfg/config.cfg
