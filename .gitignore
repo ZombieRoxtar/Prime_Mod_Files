@@ -1,8 +1,11 @@
-*.dll
-*.cache
-downloadlists
-maps/graphs
-*.tmp
+cfg/config.cfg
 ep1_gamestats.dat
 stats.txt
-cfg/config.cfg
+*.dll
+*.cache
+*.tmp
+downloadlists
+maps/graphs
+materialsrc
+save
+screenshots
